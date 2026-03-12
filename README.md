@@ -375,4 +375,4 @@ Training Data → Train Models → Save Models (.pkl)
 * Ensure the **working directory contains both the scenario file and the results folder**.
 
 ---
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18989371.svg)](https://doi.org/10.5281/zenodo.18989371)
